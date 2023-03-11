@@ -7,6 +7,10 @@ body{
   color: #fff;
 
 }
+.feature{
+  justify-content: center;
+}
+
 .description{
   font-family: 'Montserrat-Black' sans-serif;
   font-weight: 900;
