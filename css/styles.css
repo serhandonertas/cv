@@ -15,16 +15,17 @@ body{
   text-decoration: none;
 }
 .dho {
+  color: #fff;
   font-family: 'Montserrat-Black' sans-serif;
   font-weight: 900;
   font-size: 1.5rem;
   line-height: 1.3;
   text-decoration: none;
-  color: #fff;
+  
 }
-a {
-  text-decoration: none;
+.letter {
   color: #fff;
+  text-decoration: none;
 }
 
 h3 {
