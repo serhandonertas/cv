@@ -10,6 +10,9 @@ body{
 .feature{
   justify-content: center;
 }
+.time{
+  margin-bottom: 0;
+}
 
 .description{
   font-family: 'Montserrat-Black' sans-serif;
