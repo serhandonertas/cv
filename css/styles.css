@@ -8,10 +8,11 @@ body{
 
 }
 .feature{
-  justify-content: center;
+  position: absolute;
 }
 .time{
-  margin-bottom: 0;
+  position: relative;
+  bottom: 0;
 }
 
 .description{
